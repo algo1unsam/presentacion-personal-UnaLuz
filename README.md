@@ -1,7 +1,5 @@
 # Presentacion personal
 
----
-
 ## Quien soy
 
 **María Luz Cucarella**<br>
@@ -10,7 +8,7 @@ Legajo: CYT-10829
 ### Un poco sobre mi
 
 Me metí en el mundo de la programación casi que de casualidad.<br>
-Siempre tuve un lado ~~orcuro~~ artístico que de vez en cuando sale a la luz.<br>
+Siempre tuve un lado ~~obscuro~~ artístico que de vez en cuando sale a la luz.<br>
 Disfruto mucho dibujando y creando, lo cual creo que también se nota cuando desarrollo.
 
 Me gustan todos los animales pero los gatos y felinos en general siempre fueron mi punto débil.
