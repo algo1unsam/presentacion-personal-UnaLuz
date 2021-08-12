@@ -7,7 +7,8 @@ Legajo: CYT-10829
 
 ### Un poco sobre mi
 
-Me metí en el mundo de la programación casi que de casualidad.<br>
+Me metí en el mundo de la programación casi que de casualidad.
+
 Siempre tuve un lado ~~obscuro~~ artístico que de vez en cuando sale a la luz.<br>
 Disfruto mucho dibujando y creando, lo cual creo que también se nota cuando desarrollo.
 
