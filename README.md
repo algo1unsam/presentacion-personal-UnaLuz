@@ -5,6 +5,8 @@
 **María Luz Cucarella**<br>
 Legajo: CYT-10829
 
+![Selfie](pfp.jpeg)
+
 ### Un poco sobre mi
 
 Me metí en el mundo de la programación casi que de casualidad.
@@ -19,5 +21,3 @@ Ahora juego más que nada a Duel Links y hace poco empecé con Apex.
 
 No tengo una rama de la programación favorita, me encanta casi todo.<br>
 Actualmente estoy aprendiendo backend con Django y tengo una buena base de frontend con Vue.js
-
-![No soy fan de las fotos](pfp.jpeg)
